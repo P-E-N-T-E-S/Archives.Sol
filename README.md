@@ -9,7 +9,7 @@ Solana
       <a href="https://github.com/Thomazrlima">
         <img src="https://avatars3.githubusercontent.com/Thomazrlima" width="100px;" alt="Foto de Thomaz"/><br>
         <sub>
-          <b>Thomaz R. Lima</b>
+          <b>Thomaz Lima</b>
         </sub>
       </a>
     </td>
@@ -17,7 +17,7 @@ Solana
       <a href="https://github.com/evaldocunhaf">
         <img src="https://avatars3.githubusercontent.com/evaldocunhaf" width="100px;" alt="Foto de Evaldo"/><br>
         <sub>
-          <b>Evaldo G. Filho</b>
+          <b>Evaldo Filho</b>
         </sub>
       </a>
     </td>
@@ -25,7 +25,7 @@ Solana
       <a href="https://github.com/hsspedro">
         <img src="https://avatars.githubusercontent.com/hsspedro" width="100px;" alt="Foto de Pedro"/><br>
         <sub>
-          <b>Pedro S. Souza</b>
+          <b>Pedro Souza</b>
         </sub>
       </a>
     </td>
@@ -33,7 +33,7 @@ Solana
       <a href="https://github.com/Luiz-Edu0202">
         <img src="https://avatars.githubusercontent.com/Luiz-Edu0202" width="100px;" alt="Foto de Dustin"/><br>
         <sub>
-          <b>Luiz Eduardo Brayner</b>
+          <b>Luiz Eduardo</b>
         </sub>
       </a>
     </td>
