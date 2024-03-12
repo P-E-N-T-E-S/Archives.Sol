@@ -53,11 +53,19 @@ Solana
         </sub>
       </a>
     </td>
-      <td align="center">
+    <td align="center">
       <a href="https://github.com/thaispaes">
         <img src="https://avatars.githubusercontent.com/thaispaes" width="100px;" alt="Foto de Thais"/><br>
         <sub>
           <b>Thais Paes</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/daviifreitas">
+        <img src="https://avatars.githubusercontent.com/daviifreitas" width="100px;" alt="Foto de Davi"/><br>
+        <sub>
+          <b>Davi Freitas</b>
         </sub>
       </a>
     </td>
