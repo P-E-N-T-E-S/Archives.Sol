@@ -1,73 +1,48 @@
-# Solana
-Solana
+# 🪙 Archives.Sol
 
-## Membros 👨‍🏭
+![GitHub repo size](https://img.shields.io/github/repo-size/P-E-N-T-E-S/Archives.Sol?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/P-E-N-T-E-S/Archives.Sol?style=flat&logo=python)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/P-E-N-T-E-S/Archives.Sol?style=flat&logo=github)
+![Commits](https://img.shields.io/github/commit-activity/t/P-E-N-T-E-S/Archives.Sol?style=flat&logo=github)
+[![GitHub](https://img.shields.io/github/license/P-E-N-T-E-S/Archives.Sol)](LICENSE.md)
+
+O Archives.Sol é um repositório de banco de dados abrangente que engloba áudios, fotos, vídeos e textos. Ele é alimentado por contribuições da comunidade e está disponível para uso por todos os interessados.
+
+## 🫵 Objetivo
+
+<p float="left">
+<img align="right" width="120" src="https://cryptologos.cc/logos/solana-sol-logo.png" />
+
+O objetivo do Archives.Sol é criar uma coleção diversificada e acessível de recursos multimídia e textuais. Esses recursos podem variar desde gravações de áudio e vídeos até imagens e documentos de texto. Ao centralizar esses materiais em um único repositório, o Archives.Sol visa facilitar o acesso e o compartilhamento desses recursos para uma ampla gama de propósitos.
+
+## 🤝 Contribuição
+
+A comunidade é incentivada a contribuir para o Archives.Sol. Você pode adicionar seus próprios materiais, desde que estejam em conformidade com as diretrizes e políticas de uso estabelecidas para o repositório. Sua contribuição ajuda a enriquecer e expandir a variedade de recursos disponíveis para todos os usuários do Archives.Sol.
+
+## 🖨️ Uso
+
+Você é livre para usar os recursos do Archives.Sol para seus próprios fins, seja para pesquisa, criação de conteúdo, projetos pessoais ou qualquer outro propósito. Certifique-se de respeitar quaisquer direitos autorais ou licenças associadas aos materiais individuais, conforme especificado nos metadados ou nas informações de atribuição fornecidas.
+
+## 📫 Contribuindo
+
+Para contribuir, siga estas etapas:
+
+1. Bifurque este repositório.
+2. Crie um branch: `git checkout -b <nome_branch>`.
+3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
+4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
+5. Crie a solicitação de pull.
+
+## 🧾 Nota Legal
+
+O Archives.Sol não se responsabiliza pelo conteúdo contribuído pelos usuários. Os contribuidores são os únicos responsáveis pelo conteúdo que adicionam ao repositório. O Archives.Sol pode remover qualquer conteúdo que viole suas diretrizes ou políticas de uso.
+
+## 👨‍👩‍👧‍👦 Contribuintes
   
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Thomazrlima">
-        <img src="https://avatars3.githubusercontent.com/Thomazrlima" width="100px;" alt="Foto de Thomaz"/><br>
-        <sub>
-          <b>Thomaz Lima</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/evaldocunhaf">
-        <img src="https://avatars3.githubusercontent.com/evaldocunhaf" width="100px;" alt="Foto de Evaldo"/><br>
-        <sub>
-          <b>Evaldo Filho</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/hsspedro">
-        <img src="https://avatars.githubusercontent.com/hsspedro" width="100px;" alt="Foto de Pedro"/><br>
-        <sub>
-          <b>Pedro Souza</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Luiz-Edu0202">
-        <img src="https://avatars.githubusercontent.com/Luiz-Edu0202" width="100px;" alt="Foto de Dustin"/><br>
-        <sub>
-          <b>Luiz Eduardo</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Nerebo">
-        <img src="https://avatars.githubusercontent.com/Nerebo" width="100px;" alt="Foto de André"/><br>
-        <sub>
-          <b>André Fonseca</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Sofia-Saraiva">
-        <img src="https://avatars.githubusercontent.com/Sofia-Saraiva" width="100px;" alt="Foto de Sofia"/><br>
-        <sub>
-          <b>Sofia Saraiva</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/thaispaes">
-        <img src="https://avatars.githubusercontent.com/thaispaes" width="100px;" alt="Foto de Thais"/><br>
-        <sub>
-          <b>Thais Paes</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/daviifreitas">
-        <img src="https://avatars.githubusercontent.com/daviifreitas" width="100px;" alt="Foto de Davi"/><br>
-        <sub>
-          <b>Davi Freitas</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/P-E-N-T-E-S/Archives.Sol/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=P-E-N-T-E-S/Archives.Sol" />
+</a>
+
+## ⚖️ License
+
+[MIT](https://github.com/P-E-N-T-E-S/Archives.Sol/blob/master/LICENSE.md)
