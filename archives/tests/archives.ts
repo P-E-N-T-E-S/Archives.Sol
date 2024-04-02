@@ -1,12 +1,15 @@
-const anchor = require("@coral-xyz/anchor");
+import * as anchor from "@coral-xyz/anchor";
+import { Program } from "@coral-xyz/anchor";
+import { Archives } from "../target/types/archives";
 
-describe("archives-sol", () => {
+describe("archives", () => {
   // Configure the client to use the local cluster.
   anchor.setProvider(anchor.AnchorProvider.env());
 
+  const program = anchor.workspace.Archives as Program<Archives>;
+
   it("Is initialized!", async () => {
     // Add your test here.
-    const program = anchor.workspace.ArchivesSol;
     const tx = await program.methods.initialize().rpc();
     console.log("Your transaction signature", tx);
   });

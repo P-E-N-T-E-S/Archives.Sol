@@ -1,9 +1,9 @@
 use anchor_lang::prelude::*;
 
-declare_id!("tPZbfwacaL9D9J6QyopjDoLtPYbGKtttvGAYwnF84AH");
+declare_id!("4VXdnDCoG585gSRvR7S3ZtjZQjGinnyt8waBrCEWUGcm");
 
 #[program]
-pub mod archives_sol {
+pub mod archives {
     use super::*;
 
     pub fn initialize(ctx: Context<Initialize>) -> Result<()> {

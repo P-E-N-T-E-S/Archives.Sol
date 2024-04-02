@@ -5,7 +5,7 @@ seeds = false
 skip-lint = false
 
 [programs.localnet]
-archives_sol = "tPZbfwacaL9D9J6QyopjDoLtPYbGKtttvGAYwnF84AH"
+archives = "4VXdnDCoG585gSRvR7S3ZtjZQjGinnyt8waBrCEWUGcm"
 
 [registry]
 url = "https://api.apr.dev"
@@ -15,4 +15,4 @@ cluster = "Localnet"
 wallet = "/Users/evaldocunhafilho/.config/solana/id.json"
 
 [scripts]
-test = "yarn run mocha -t 1000000 tests/"
+test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
