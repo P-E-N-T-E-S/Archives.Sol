@@ -6,7 +6,7 @@ declare_id!("7bYR2BPEbLE5uR22XsUito5GWeDMJAgnocgU4r88NNMA");
 pub mod archives_sol {
     use super::*;
 
-    pub fn initialize(ctx: Context<Initialize>) -> Result<()> {
+    pub fn initialize(_ctx: Context<Initialize>) -> Result<()> {
         Ok(())
     }
 }
