@@ -1,12 +1,12 @@
 use anchor_lang::prelude::*;
 
-declare_id!("7bYR2BPEbLE5uR22XsUito5GWeDMJAgnocgU4r88NNMA");
+declare_id!("tPZbfwacaL9D9J6QyopjDoLtPYbGKtttvGAYwnF84AH");
 
 #[program]
 pub mod archives_sol {
     use super::*;
 
-    pub fn initialize(_ctx: Context<Initialize>) -> Result<()> {
+    pub fn initialize(ctx: Context<Initialize>) -> Result<()> {
         Ok(())
     }
 }
