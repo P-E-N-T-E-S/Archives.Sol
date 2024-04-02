@@ -1,17 +1,41 @@
-# 🪙 Archives.Sol
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Status-Em%20desenvolvimento-green?style=flat-square"
+    alt="Status"
+  />
+</p>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/P-E-N-T-E-S/Archives.Sol?style=flat)
-![GitHub language count](https://img.shields.io/github/languages/count/P-E-N-T-E-S/Archives.Sol?style=flat&logo=python)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/P-E-N-T-E-S/Archives.Sol?style=flat&logo=github)
-![Commits](https://img.shields.io/github/commit-activity/t/P-E-N-T-E-S/Archives.Sol?style=flat&logo=github)
-[![GitHub](https://img.shields.io/github/license/P-E-N-T-E-S/Archives.Sol)](LICENSE.md)
+<p align="center">
+  <img
+    src="https://img.shields.io/github/repo-size/P-E-N-T-E-S/Archives.Sol?style=flat"
+    alt="Repository Size"
+  />
+  <img
+    src="https://img.shields.io/github/languages/count/P-E-N-T-E-S/Archives.Sol?style=flat&logo=python"
+    alt="Language Count"
+  />
+  <img
+    src="https://img.shields.io/github/commit-activity/t/P-E-N-T-E-S/Archives.Sol?style=flat&logo=github"
+    alt="Commit Activity"
+  />
+  <a href="LICENSE.md"
+    ><img
+      src="https://img.shields.io/github/license/P-E-N-T-E-S/Archives.Sol"
+      alt="License"
+  /></a>
+</p>
+
+<p align="center">
+  <img
+    width="700"
+    display="inline-block"
+    src="https://i.imgur.com/2qTFXiN.png"
+  />
+</p>
 
 O Archives.Sol é um repositório de banco de dados abrangente que engloba áudios, fotos, vídeos e textos. Ele é alimentado por contribuições da comunidade e está disponível para uso por todos os interessados.
 
 ## 🫵 Objetivo
-
-<p float="left">
-<img align="right" width="120" src="https://cryptologos.cc/logos/solana-sol-logo.png" />
 
 O objetivo do Archives.Sol é criar uma coleção diversificada e acessível de recursos multimídia e textuais. Esses recursos podem variar desde gravações de áudio e vídeos até imagens e documentos de texto. Ao centralizar esses materiais em um único repositório, o Archives.Sol visa facilitar o acesso e o compartilhamento desses recursos para uma ampla gama de propósitos.
 
